@@ -1,0 +1,3 @@
+C:/Users/user/Desktop/all univ/all univ/2nd year,second semseter/datastr/A2_1190119_SaharFayyad_1.c/cmake-build-debug/CMakeFiles/_A2_1190119_SaharFayyad_1_c.dir
+C:/Users/user/Desktop/all univ/all univ/2nd year,second semseter/datastr/A2_1190119_SaharFayyad_1.c/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/user/Desktop/all univ/all univ/2nd year,second semseter/datastr/A2_1190119_SaharFayyad_1.c/cmake-build-debug/CMakeFiles/rebuild_cache.dir
